@@ -14,7 +14,7 @@ HandsOnMCUは、最小限の部品でマイコン制御を学べる入門用プ�
 ## 必要部品
 以下の部品は、[秋月電子](https://akizukidenshi.com/)、[千石電商](https://www.sengoku.co.jp/)、[共立エレショップ](https://eleshop.jp/)、[Aliexpress](https://ja.aliexpress.com/)、[Aitendo](https://www.aitendo.com/)などでお求めいただけます。
 
-メインのマイコンCH552については、実装のしやすさを考慮してSOP16パッケージのCH552Gを採用しています。このICは主にAliexpressで10個単位、もしくは[Aitendo](https://www.aitendo.com/product/20923)での1個の販売のみとなっております。まご了承ください。
+メインのマイコンCH552については、実装のしやすさを考慮してSOP16パッケージのCH552Gを採用しています。このICは主にAliexpressで10個単位、もしくは[Aitendo](https://www.aitendo.com/product/20923)での1個の販売のみとなっております。ご了承ください。
 
 |部品名|価格(約)|販売先|
 |-----|----|-----|
