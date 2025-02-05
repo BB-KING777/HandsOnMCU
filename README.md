@@ -12,7 +12,7 @@ HandsOnMCUは、従来の名刺の役割に加えて、電子工作やマイコ�
 HandsOnMCUは、最小限の部品でマイコン制御を学べる入門用プロジェクトです。
 
 ## 必要部品
-以下の部品は、秋月電子(https://akizukidenshi.com/)、千石電商(https://www.sengoku.co.jp/)、共立エレショップ(https://eleshop.jp/)、Aliexpress(https://ja.aliexpress.com/)などでお求めいただけます。
+以下の部品は、[秋月電子](https://akizukidenshi.com/)、[千石電商](https://www.sengoku.co.jp/)、[共立エレショップ](https://eleshop.jp/)、[Aliexpress](https://ja.aliexpress.com/)などでお求めいただけます。
 
 メインのマイコンCH552については、実装のしやすさを考慮してSOP16パッケージのCH552Gを採用しています。このICは主にAliexpressで10個単位での販売となっております。ご了承ください。
 
