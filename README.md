@@ -12,17 +12,18 @@ HandsOnMCUは、従来の名刺の役割に加えて、電子工作やマイコ�
 HandsOnMCUは、最小限の部品でマイコン制御を学べる入門用プロジェクトです。
 
 ## 必要部品
-以下の部品は、[秋月電子](https://akizukidenshi.com/)、[千石電商](https://www.sengoku.co.jp/)、[共立エレショップ](https://eleshop.jp/)、[Aliexpress](https://ja.aliexpress.com/)などでお求めいただけます。
+以下の部品は、[秋月電子](https://akizukidenshi.com/)、[千石電商](https://www.sengoku.co.jp/)、[共立エレショップ](https://eleshop.jp/)、[Aliexpress](https://ja.aliexpress.com/)、[Aitendo](https://www.aitendo.com/)などでお求めいただけます。
 
-メインのマイコンCH552については、実装のしやすさを考慮してSOP16パッケージのCH552Gを採用しています。このICは主にAliexpressで10個単位での販売となっております。ご了承ください。
+メインのマイコンCH552については、実装のしやすさを考慮してSOP16パッケージのCH552Gを採用しています。このICは主にAliexpressで10個単位、もしくは[Aitendo](https://www.aitendo.com/product/20923)での1個の販売のみとなっております。まご了承ください。
 
 |部品名|価格(約)|販売先|
 |-----|----|-----|
 |ピンヘッダ 1x07 2.54mmピッチ|10円 x 2|秋月電子、千石電商、Amazon、Aliexpress|
 |積層セラミックコンデンサ 0.1μF|5円 x 2|秋月電子、千石電商、Aliexpress|
 |LED 5mm|10円|秋月電子、千石電商、Aliexpress|
-|CH552G|80円|LCSC、AliExpress|
+|CH552G|80円|[AliExpress](https://ja.aliexpress.com/w/wholesale-CH552G.html?spm=a2g0o.detail.search.0)、[Aitendo](https://www.aitendo.com/product/20923)|
 |マイクロUSBコネクタ|50円|秋月電子、千石電商、Aliexpress|
 |抵抗 220Ω|5円|秋月電子、千石電商、Aliexpress|
 |抵抗 10kΩ|5円 x 3|秋月電子、千石電商、Aliexpress|
 |タクトスイッチ 6mm|10円|秋月電子、千石電商、Aliexpress|
+
